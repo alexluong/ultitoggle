@@ -1,7 +1,7 @@
-import ExampleComponent from './'
+import Toggle from "./Toggle"
 
-describe('ExampleComponent', () => {
-  it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+describe("Toggle", () => {
+  it("is truthy", () => {
+    expect(Toggle).toBeTruthy()
   })
 })
